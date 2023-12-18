@@ -10,3 +10,5 @@
 0 1 1 0 1 0\
 0 1 1 1 0 1\
 0 0 0 0 1 0
+
+![image](https://github.com/KatrinBnk/Dismat_zadanie1/assets/92886870/c871e08c-a067-4fab-9ef5-78d0331d6490)
