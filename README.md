@@ -11,4 +11,6 @@
 0 1 1 1 0 1\
 0 0 0 0 1 0
 
-![image](https://github.com/KatrinBnk/Dismat_zadanie1/assets/92886870/c871e08c-a067-4fab-9ef5-78d0331d6490)
+Граф\
+
+![graph (6)](https://github.com/KatrinBnk/Dismat_zadanie1/assets/92886870/eea8465f-3004-4b09-9c2c-475b10e7833c)
